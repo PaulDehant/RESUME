@@ -47,7 +47,7 @@ reus1896@gmail.com
 Компания, город ООО «ЦП КАМАЗ», г. Набережные Челны
 Сайт https://kamaz.digital 
 
-Основные рабочие инструменты: Mattermost, Postman, Jira, DataGrip, Confluence, Swagger, Grafana, Python, Android Studio, RabbitQ, Figma
+Основные рабочие инструменты: Mattermost, Postman, Jira, DataGrip, Confluence, Swagger, Grafana, Python, Android Studio, RabbitMQ, Figma
 Тестирование функционала системы MES в веб-приложение и mobile
 Внедрение новых функций системы MES в веб-приложение и mobile
 Создание новых и корректировка имеющихся тест-кейсов
